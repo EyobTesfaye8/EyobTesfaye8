@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi visitor, 👋👋👋👋😀 <br><br>I'm a software engineering student from Ethiopia. <br>I mainly work with backend.
+# Hi visitor, 👋👋👋👋😀
+ <br><br>I'm a junior web developer and a software engineering student who is trying his best to build his future; learning new things everyday improving, growing and getting one step closer at a time. <br> <br>I try to build projects ground up as it helps me learn the foundation and if you know, understanding the foundation is like a boost both mentally and skill wise. <br>I alway open to opportunities that might help me grow.
 
 
 ## 🌐 Socials:
