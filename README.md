@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Eyob
 
-### Full-Stack Developer
+### Backend Developer
 
-I am a Junior Web Developer dedicated to building robust applications from the ground up. I believe that a mastery of the foundations is the key to engineering high-performance software. I specialize in making the "behind-the-scenes" part of websites work perfectly.
+I am a Junior Web Developer dedicated to building robust applications from the ground up. I believe that a mastery of the foundations is the key to engineering high-performance software. I specialize in making the "behind-the-scenes" part of websites.
 
 *    **Current Focus:** Building real-time apps and improving database speed.
 *    **The Goal:** Writing clean code that helps businesses grow.
