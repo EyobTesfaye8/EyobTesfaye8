@@ -44,14 +44,21 @@ I am a Junior Web Developer dedicated to building robust applications from the g
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,git,github,postman" />
 </p>
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=EyobTesfaye8&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=EyobTesfaye8&theme=great-gatsby&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=EyobTesfaye8&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180px" />
+  <img src="https://streak-stats.demolab.com/?user=EyobTesfaye8&theme=great-gatsby&hide_border=true" height="180px"/>
 </p>
+-->
+# 🧠 LeetCode Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=EyobTesfaye8&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img 
+    src="https://leetcard.jacoblin.cool/EyobTes?theme=dark&font=JetBrains%20Mono&ext=heatmap" 
+    width="850px"
+    height="300px"
+    style="object-fit: cover;"
+  />
 </p>
 
 ---
