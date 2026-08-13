@@ -4,12 +4,8 @@
 
 I am a Junior Web Developer dedicated to building robust applications from the ground up. I believe that a mastery of the foundations is the key to engineering high-performance software. I specialize in making the "behind-the-scenes" part of websites.
 
-*    **Current Focus:** Building real-time apps and improving database speed.
-*    **The Goal:** Writing clean code that helps businesses grow.
-
 ###  What I'm Up To
-*    **Building:** Charead - a platform where people read books together and share ideas through a chat system
-*    **Learning:** WebSockets, System Design and Advanced Data Structures and Algorithms
+*    **Learning:** System Design and Advanced Data Structures and Algorithms
 *    **Collaboration:** Always open to interesting projects and new opportunities
 
 ## 🌐 Socials:
@@ -36,7 +32,7 @@ I am a Junior Web Developer dedicated to building robust applications from the g
 
 <p align="center">
   <!-- Frontend / Backend -->
-  <img src="https://skillicons.dev/icons?i=html,css,django,express,laravel,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,express,laravel,nodejs" />
 </p>
 
 <p align="center">
