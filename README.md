@@ -8,7 +8,7 @@ I am a Junior Web Developer dedicated to building robust applications from the g
 *    **Learning:** System Design and Advanced Data Structures and Algorithms
 *    **Collaboration:** Always open to interesting projects and new opportunities
 
-## 🌐 Socials:
+## Socials:
 <p align="center">
   <a href="https://instagram.com/_eyoba._.t">
     <img src="https://skillicons.dev/icons?i=instagram" />
@@ -24,7 +24,7 @@ I am a Junior Web Developer dedicated to building robust applications from the g
   </a>
 </p>
 
-# 💻 Tech Stack:
+# Tech Stack:
 <p align="center">
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=cpp,js,java,python,php" />
@@ -46,7 +46,7 @@ I am a Junior Web Developer dedicated to building robust applications from the g
   <img src="https://streak-stats.demolab.com/?user=EyobTesfaye8&theme=great-gatsby&hide_border=true" height="180px"/>
 </p>
 -->
-# 🧠 LeetCode Stats:
+# LeetCode Stats:
 
 <p align="center">
   <img 
