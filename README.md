@@ -27,7 +27,7 @@ I am a Junior Web Developer dedicated to building robust applications from the g
 # Tech Stack:
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=cpp,js,java,python,php" />
+  <img src="https://skillicons.dev/icons?i=js,java,python,php" />
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@ I am a Junior Web Developer dedicated to building robust applications from the g
 
 # GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=EyobTesfaye8&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180px" />
+  <!-- <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=EyobTesfaye8&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180px" /> -->
   <img src="https://streak-stats.demolab.com/?user=EyobTesfaye8&theme=great-gatsby&hide_border=true" height="180px"/>
 </p>
 
