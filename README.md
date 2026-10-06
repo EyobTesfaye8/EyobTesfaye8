@@ -46,7 +46,7 @@ I am a Junior Web Developer dedicated to building robust applications from the g
   <img src="https://streak-stats.demolab.com/?user=EyobTesfaye8&theme=great-gatsby&hide_border=true" height="180px"/>
 </p>
 
-# LeetCode Stats:
+<!-- # LeetCode Stats:
 
 <p align="center">
   <img 
@@ -55,7 +55,7 @@ I am a Junior Web Developer dedicated to building robust applications from the g
     height="300px"
     style="object-fit: cover;"
   />
-</p>
+</p> -->
 
 ---
 
