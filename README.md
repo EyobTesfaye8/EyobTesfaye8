@@ -6,7 +6,7 @@ I am a Junior Web Developer dedicated to building robust applications from the g
 
 ###  What I'm Up To
 *    **Learning:** System Design and Advanced Data Structures and Algorithms
-*    **Collaboration:** Always open to interesting projects and new opportunities
+*    **Collaboration:** Always open to interesting projects
 
 ## Socials:
 <p align="center">
@@ -32,12 +32,12 @@ I am a Junior Web Developer dedicated to building robust applications from the g
 
 <p align="center">
   <!-- Frontend / Backend -->
-  <img src="https://skillicons.dev/icons?i=html,css,express,laravel,nodejs" />
+  <img src="https://skillicons.dev/icons?i=express,laravel,nodejs" />
 </p>
 
 <p align="center">
   <!-- Databases & Tools -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,git,github,postman" />
 </p>
 
 # GitHub Stats:
